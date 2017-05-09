@@ -9,6 +9,7 @@ GitHub是全球最大的社交编程及代码托管王者。
 *    可以对于自己感兴趣的任务进行实时进行实时的 进行实时的查看 
 *   兼容HTML  等 
 *   全球最大的社交编程平台 
+
 ####4、github的优势
 * GitHub 只支持 Git 格式的版本库托管，而不像其他开源项目托管平台还对
 	CVS、SVN、Hg 等格式的版本库进行托管。
@@ -19,6 +20,7 @@ GitHub是全球最大的社交编程及代码托管王者。
 	构成 GitHub 特色的代码审核。
 * itHub 通过私有版本库托管、面向企业的版本库托管和项目管理平台、人员招聘等付费服务获得了商业上的成功，
 	这种成功使得 GitHub 不必以页面中嵌入广告的方式维持运营，最大的受益者还是用户。
+
 ####5、通过github年度报告让你记忆最深刻的信息有哪些
 中国还是有很大的发展空间的.
 ####6、github上有可以个人账号 还可以有（ ）账号
@@ -46,7 +48,8 @@ repositories（仓库）、code（代码）、commits（提交）、siiues（）
 * new repository       创建一个新的仓库
 * import repository    导入存储库
 * new gist             新要点
-* new organization     新组织
+* new organization    新组织
+
 ####2、如何能将仓库中的html文件直接解析成页面？
 从仓库的settings的GitHub pages 直接点开页面
 ####3、如何删除仓库？
@@ -103,16 +106,19 @@ git log
 * 平台支持
 * 排版样式简单
 * 兼容HTML
+
 ####MarkDown的用途？
 * 写日志
 * 技术交流
 * 记录代码片段 
 * 撰写文档
+
 ####编辑器
 * Mac OS:MOU
 * Windows: markdown pad ,mark pad ,HBuilder
 * Linus：ReText
 * Web：github,markable.in,有道云笔记
+
 ####MarkDown的区块元素和区段元素分别包含哪些？
 * 区块元素：标题，列表，区块引用，代码区块，分割线，段落和换行
 * 区段元素：链接，强调，代码，图片
